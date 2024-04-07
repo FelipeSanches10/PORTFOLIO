@@ -2,4 +2,4 @@
 Seja bem vindo(a) ao meu portfólio
 
 # LINK PARA ACESSAR:
-https://sparkly-crumble-231364.netlify.app/
+https://flourishing-cheesecake-47d263.netlify.app/
